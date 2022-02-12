@@ -2,7 +2,7 @@
 
 1. házi feladat Programozás 1 tárgyból
 
-Scartchben készült Dino játék 
+Scratchben készült Dino játék 
 
 **Dino sprite code:**
 
