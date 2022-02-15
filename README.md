@@ -4,6 +4,10 @@
 
 Scratchben készült Dino játék 
 
+**Irányítás:**
+ugrás - arrow up
+gugolás - arrow down
+
 **Dino sprite code:**
 
 ![image](https://user-images.githubusercontent.com/46202519/153712369-1ca8d98b-b8a9-4797-9be5-9211de1a0124.png)
