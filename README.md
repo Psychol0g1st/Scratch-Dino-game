@@ -5,6 +5,7 @@
 Scratchben készült Dino játék 
 
 **Irányítás:**
+
 ugrás - arrow up
 
 gugolás - arrow down
